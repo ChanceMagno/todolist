@@ -1,0 +1,9 @@
+
+.done {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.done:hover {
+  text-decoration: underline;
+}
